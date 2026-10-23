@@ -1,0 +1,28 @@
+# Native solver output, local caches, and temporary files
+*.aedtresults/
+*.aedt.*
+*.asol
+*.lock
+*.log
+*.tmp
+*.bak
+*.backup
+*.auto
+*.aedtarchive
+
+# Do not accidentally reintroduce original archives or private audit material
+*.zip
+originals/
+source_private/
+private_audit/
+helpers/
+
+# Local credentials and operating-system metadata
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+__pycache__/
+.DS_Store
+Thumbs.db
