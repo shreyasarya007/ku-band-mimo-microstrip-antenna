@@ -10,6 +10,22 @@ An Ansys HFSS project containing a four-port MIMO antenna design and a single-el
 
 These are the previews embedded in the supplied project, not newly generated simulation results. The original Student-edition markings are retained.
 
+## Detailed geometry views
+
+These additional front and rear geometry images were supplied by the project author. They supplement the original previews above and are not measured results or photographs of fabricated antennas.
+
+### Single element
+
+| Front geometry | Rear geometry |
+| --- | --- |
+| ![Single-element front geometry](assets/geometry/single-element-front.png) | ![Single-element rear geometry](assets/geometry/single-element-rear.png) |
+
+### Four-port MIMO
+
+| Front geometry | Rear geometry |
+| --- | --- |
+| ![Four-port MIMO front geometry](assets/geometry/mimo-front.png) | ![Four-port MIMO rear geometry](assets/geometry/mimo-rear.png) |
+
 ## Project configuration
 
 The following values were read from the project file; they are settings, not validated performance claims.
